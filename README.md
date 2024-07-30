@@ -1,3 +1,7 @@
+![my_plot](https://github.com/user-attachments/assets/f33cfef6-e2eb-40b1-9241-fd42bdee6cee)
+![Cumulative_Current_Flow](https://github.com/user-attachments/assets/5124367f-cd0e-4309-be8e-dade8cc216c3)
+![Flow Potential](https://github.com/user-attachments/assets/d6e72a61-410f-408b-adee-7abc17b8d84d)
+![1720906149774](https://github.com/user-attachments/assets/63d78563-6929-4509-b923-b4dc07f8619a)
 ## USING OMNISCAPE TO ANALYZE LANDSCAPE CONNECTIVITY FOR ECOSYSTEM MANAGEMENT
 This is a term paper which uses omniscape to analyse connectivity between landscape elements.
 This study examines the connectivity within the landscape and its significance for fostering a
