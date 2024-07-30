@@ -1,4 +1,4 @@
-# USING OMNISCAPE TO ANALYZE LANDSCAPE CONNECTIVITY FOR ECOSYSTEM MANAGEMENT
+## USING OMNISCAPE TO ANALYZE LANDSCAPE CONNECTIVITY FOR ECOSYSTEM MANAGEMENT
 This is a term paper which uses omniscape to analyse connectivity between landscape elements.
 This study examines the connectivity within the landscape and its significance for fostering a
 thriving ecosystem in the ELM region, a forested hill range situated at 52.226°N latitude and
@@ -20,3 +20,14 @@ importance of maintaining connectivity in natural areas to ensure unrestricted a
 movement. It was observed that animals can move efficiently in forests and along rivers. This
 research highlights the need for strategic planning in landscape management to promote
 biodiversity.
+
+# REFERENCES
+FInAL: Julius Kühn-Institut (JKI). (n.d.). Retrieved 7 June 2024, from https://www.finalprojekt.de/partner/julius-kuehn-institut
+
+Landau, V., Shah, V., Anantharaman, R., & Hall, K. (2021). Omniscape.jl: Software to compute
+omnidirectional landscape connectivity. Journal of Open Source Software, 6, 2829.
+https://doi.org/10.21105/joss.02829
+
+McRae, B., Popper, K., Jones, A., Schindel, M., Buttrick, S., Hall, K., Unnasch, R., & Platt, J.
+(2016). Conserving Nature’s Stage: Mapping Omnidirectional Connectivity for Resilient Terrestrial
+Landscapes in the Pacific Northwest. https://doi.org/10.13140/RG.2.1.4158.6166
